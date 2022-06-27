@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aldesrahim
-- 👀 I’m interested in PHP
-- 🌱 I’m currently learning Laravel
+- 👋 Hi, My name is aldesrahim
+- 👀 Interest in PHP
+- 🌱 Learning Laravel
 - 📫 aldesrahim@gmail.com
 
 <!---
