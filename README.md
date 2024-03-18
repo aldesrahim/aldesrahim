@@ -1,7 +1,7 @@
-# Welcome
+# Hi 👋
 
-Hi, My name is Ahmad Al Desrahim or you can call me `aldesrahim` and I am currently a college student at [UNINDRA](https://unindra.ac.id/). Currently working at PT. Bukuku Solusi Kreatif as a Backend Developer (PHP).
-
-My main coding language is PHP. At the moment I really love using Laravel as my main PHP Framework with TALL Stack.
-
-You can find more about me on my personal website at [aldesrahim.com](https://aldesrahim.com). Thank you for visiting my Github profile.
+- 🤙 My name is Al Desrahim, you can call me _aldes_
+- ✨ I've been coding PHP for over 6 years
+- 🤓 I'm a Laravel Enthusiast
+- 🎓 I'm currently studying _informatics engineering_ at UNINDRA
+- 🧑‍💻 And currently working as Backend Developer at PT. Bukuku Solusi Kreatif
